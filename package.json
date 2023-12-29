@@ -1,0 +1,18 @@
+{
+  "name": "quicksort",
+  "version": "1.0.0",
+  "description": "an implementation of the quick sort algorithm in typescript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wihler ruben",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.3"
+  }
+}
